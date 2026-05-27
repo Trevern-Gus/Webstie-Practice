@@ -18,3 +18,6 @@ Non-Interactive parts:
 
 I'm going to decide what my next step should be which is probably gonna be a frame or i'm just gonna start coding a placeholder for now.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+After some research and tutorials i'm gonna use Vite + react to handle dependencies and scripting.
